@@ -1,27 +1,10 @@
 import streamlit as st
 import openai
-from llama_index.llms.openai import OpenAI
-from llama_index.llms.azure_openai import AzureOpenAI
-from llama_index.embeddings.azure_openai import AzureOpenAIEmbedding
-import logging
-import sys
-import pandas as pd
-from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
 import weaviate
-#import weaviate.classes as wvc
-import os
-import json
-from IPython.display import Markdown, display
 from llama_index.readers.weaviate import WeaviateReader
-from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
 from llama_index.vector_stores.weaviate import WeaviateVectorStore
-from IPython.display import Markdown, display
 from llama_index.core import StorageContext
-from llama_index.core.llms import ChatMessage, MessageRole
-from llama_index.core import ChatPromptTemplate
-from llama_index.core import SimpleDirectoryReader
-from llama_index.core import Settings
-from weaviate.util import generate_uuid5  # Generate a deterministic ID
+
 
 try:
     from llama_index import VectorStoreIndex, ServiceContext, Document, SimpleDirectoryReader
