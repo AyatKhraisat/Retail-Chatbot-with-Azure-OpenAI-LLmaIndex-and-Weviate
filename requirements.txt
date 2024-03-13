@@ -5,3 +5,4 @@ llama-index-llms-openai
 nltk
 pypdf
 weaviate-client
+llama_index.readers.weaviate
