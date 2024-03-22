@@ -7,3 +7,5 @@ pypdf
 weaviate-client
 llama_index.readers.weaviate
 llama-index-vector-stores-weaviate
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
