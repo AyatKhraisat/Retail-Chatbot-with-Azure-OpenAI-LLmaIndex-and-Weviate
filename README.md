@@ -2,7 +2,7 @@
 # Retail Chatbot 
 
 
-This repository demonstrates how to build an AI-powered chatbot with visual Search using the LlamaIndex and OpenAI, with integration to a Vector Database.
+This repository demonstrates how to build an AI-powered chatbot with visual Search using the LlamaIndex, Azure OpenAI and weaviate Vector Database.
 
 
 
