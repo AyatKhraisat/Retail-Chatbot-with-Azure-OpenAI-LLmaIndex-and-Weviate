@@ -6,24 +6,24 @@ This repository demonstrates how to build an AI-powered chatbot with visual Sear
 
 
 
-![[arch.drawio (2).svg]]
+![[arch.drawio (3).svg]]
 
 
 
 ## 🎯 Highlights
 
 
- <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/306500/openai.svg' width='25' />   <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/353467/azure-icon.svg' width='25' />  **Chatbot  on top of Azure OpenAI Model***
+-  <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/306500/openai.svg' width='25' />   <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/353467/azure-icon.svg' width='25' />  **Chatbot  on top of Azure OpenAI Model**
 
-<img alt='OpenAI Icon' src='https://github.com/run-llama/logos/blob/main/LlamaLogoBrowserTab.png?raw=true' width='30' />  **LlamaIndex to index and query the data**
+- <img alt='OpenAI Icon' src='https://github.com/run-llama/logos/blob/main/LlamaLogoBrowserTab.png?raw=true' width='30' />  **LlamaIndex to index and query the data**
 
-<img alt='Weaviate logo' src='https://weaviate.io/img/site/weaviate-logo-light.png' width='30' />  **Weaviate Vector Database to store data vectors**   
+- <img alt='Weaviate logo' src='https://weaviate.io/img/site/weaviate-logo-light.png' width='30' />  **Weaviate Vector Database to store data vectors**   
 
-📸 **Visual search for a product**: 
+- 📸 **Visual search for a product**: 
 you can upload an image for product and the chatbot will provide with similar products we have in the store using OpenAI Vision
 
-👕 **Chat with retails store** 
-you can ask also the chatbot to show you available option of a product we have 
+- 👕 **Chat with retails store** 
+you can ask also chat with the  chatbot to help you find what you are looking for
 
 
 ## 🚀 Pre-requisites
