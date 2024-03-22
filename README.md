@@ -13,10 +13,11 @@ This repository demonstrates how to build an AI-powered chatbot with visual Sear
 ## 🎯 Highlights
 
 
- <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/306500/openai.svg' width='60' />   <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/353467/azure-icon.svg' width='60' />  **Chatbot  on top of Azure OpenAI Model***
-<img alt='OpenAI Icon' src='https://github.com/run-llama/logos/blob/main/LlamaLogoBrowserTab.png?raw=true' width='60' />  **LlamaIndex to index and query the data**
+ <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/306500/openai.svg' width='30' />   <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/353467/azure-icon.svg' width='30' />  **Chatbot  on top of Azure OpenAI Model***
 
-<img alt='Weaviate logo' src='https://weaviate.io/img/site/weaviate-logo-light.png' width='60' />  **Weaviate Vector Database to store data vectors**   
+<img alt='OpenAI Icon' src='https://github.com/run-llama/logos/blob/main/LlamaLogoBrowserTab.png?raw=true' width='30' />  **LlamaIndex to index and query the data**
+
+<img alt='Weaviate logo' src='https://weaviate.io/img/site/weaviate-logo-light.png' width='30' />  **Weaviate Vector Database to store data vectors**   
 
 📸 **Visual search for a product**: 
 you can upload an image for product and the chatbot will provide with similar products we have in the store using OpenAI Vision
@@ -25,7 +26,7 @@ you can upload an image for product and the chatbot will provide with similar pr
 you can ask also the chatbot to show you available option of a product we have 
 
 
-### 🚀 Pre-requisites
+## 🚀 Pre-requisites
 
 <h3> Azure OpenAI resource   <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/306500/openai.svg' width='120' align='right' /></h1>
 1. Create OpenAI Azure Resource 
