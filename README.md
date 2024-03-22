@@ -13,7 +13,7 @@ This repository demonstrates how to build an AI-powered chatbot with visual Sear
 ## 🎯 Highlights
 
 
- <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/306500/openai.svg' width='30' />   <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/353467/azure-icon.svg' width='30' />  **Chatbot  on top of Azure OpenAI Model***
+ <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/306500/openai.svg' width='25' />   <img alt='OpenAI Icon' src='https://www.svgrepo.com/show/353467/azure-icon.svg' width='25' />  **Chatbot  on top of Azure OpenAI Model***
 
 <img alt='OpenAI Icon' src='https://github.com/run-llama/logos/blob/main/LlamaLogoBrowserTab.png?raw=true' width='30' />  **LlamaIndex to index and query the data**
 
