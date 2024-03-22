@@ -6,7 +6,7 @@ This repository demonstrates how to build an AI-powered chatbot with visual Sear
 
 
 
-![[arch.drawio (3).svg]]
+![[[arch.drawio (3).svg]]](https://github.com/AyatKhraisat/chatbot-store/blob/development/attachments/arch.drawio%20(3).svg)
 
 
 
